@@ -1,1 +1,3 @@
 # knowledgeApp_shell
+
+EC2上でrailsが停止した場合に再起動するためのシェルスクリプト
